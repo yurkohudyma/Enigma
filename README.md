@@ -1,4 +1,4 @@
 # Enigma
 Schlüsselmaschine Enigma
 
-4-rotor Kriegsmarine system with true historical data
+4-rotor Kriegsmarine system with true historical presets
