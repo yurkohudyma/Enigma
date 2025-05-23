@@ -1,4 +1,4 @@
 # Enigma
 Schlüsselmaschine Enigma
 
-1-rotor system
+4-rotor Kriegsmarine system with true historical data
